@@ -1,3 +1,3 @@
-# Stock the Store
+# Stack the Store
 
 Data-structures project from DNHS.  
